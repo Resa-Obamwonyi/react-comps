@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.button{
+  height: 40px;
+  width: 120px;
+  border-radius: 50px;
+  border: none;
+
+}
+.form-class input{
+  margin-top: 50px;
+  height: 30px;
+  width: 200px;
+  border-radius: 10px;
+}
